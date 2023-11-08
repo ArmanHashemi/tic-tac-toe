@@ -1,0 +1,19 @@
+@import "tailwindcss/base";
+@import "tailwindcss/components";
+@import "tailwindcss/utilities";
+
+[color-scheme="light"] {
+  --color-primary: #3f51b5;
+  --color-secondary: #ff4081;
+  --color-accent: #ff4081;
+}
+
+[color-scheme="dark"] {
+  --color-primary: #8f95b6;
+  --color-secondary: #731f3c;
+  --color-accent: #dfa180;
+}
+
+
+
+
